@@ -1,5 +1,5 @@
 @import url(//fonts.googleapis.com/css?family=Source+Sans+Pro:300,600);
-@import url(http://fonts.googleapis.com/css?family=Montserrat:700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 * {
   -webkit-font-smoothing: antialiased;
 }
@@ -162,7 +162,7 @@ a {
   margin-bottom: 40px;
   margin-top: 5px;
   background: #F3F3F3;
-  background: url('https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/11401365_1062221400473283_1924792473134401195_n.jpg?oh=3b49e541b2da2b8150cfaba034fc0618&oe=592A846D') no-repeat;
+  background: url('/images/ashwin.jpg') no-repeat;
   background-size: 272px 272px;
   border-radius: 300px;
 }
